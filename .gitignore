@@ -1,0 +1,8 @@
+# dotenv envrionmaet variable file
+.env
+dist
+node_modules
+
+# files for study
+src/indexFirst.ts
+src/indexSecond.ts

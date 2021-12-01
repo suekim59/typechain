@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module" : "commonjs",  //to use nodejs normailly and import, export
+        "target" : "ES5",  //ES2015 -> sourceMap 생성 X
+        "sourceMap": true,
+        "outDir": "dist"   //compiled files will be stored in this folder.
+    },
+    "include" : [ "src/**/*"],
+    "exclude" : ["node-modules"]
+}
