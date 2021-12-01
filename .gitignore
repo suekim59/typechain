@@ -4,5 +4,5 @@ dist
 node_modules
 
 # files for study
-src/indexFirst.ts
-src/indexSecond.ts
+/src/indexFirst.ts
+/src/indexSecond.ts
